@@ -1,2 +1,2 @@
 # Interface_PyImagePlot
-This is a PyQt interface for PyImagePlot
+Pic10C final project. This is a final project for PIC10C class at UCLA. Shiyun and I build a PyQt GUI of Professor Yazdani's pyImagePlot, so that researchers can easily access the pyImagePlot functions from the interface. The pyImagePlot by Professor Yazdani composes of functions to create image montages and image histograms in Python. You can check the instruction in the mainwindow of the GUI.
